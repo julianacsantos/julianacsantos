@@ -1,16 +1,39 @@
-## Hi there 👋
+## Olá, pessoal! 😊
 
-<!--
-**julianacsantos/julianacsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Juliana Santos**, estudante de **Ciência da Computação** e profissional em constante evolução.
 
-Here are some ideas to get you started:
+Iniciei minha trajetória profissional em 2023, atuando com atendimento ao cliente, vendas e rotinas administrativas. Essa experiência me proporcionou uma base sólida em **comunicação**, **empatia** e **resolução de problemas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje, estou mergulhando no mundo da tecnologia, desenvolvendo habilidades técnicas e analíticas com foco em **programação** e **metodologias ágeis**. Acredito em uma tecnologia **acessível**, **inclusiva** e **sustentável**, e quero contribuir com soluções que gerem **impacto real na vida das pessoas**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Em constante aprendizado 🚀
+
+---
+
+## 💼 Projeto em Destaque
+
+### 📄 Página de Cadastro com Validação de Formulário
+Desenvolvi uma página de cadastro com validações básicas, utilizando:
+
+- **HTML5** para estrutura do formulário  
+- **CSS3** para estilização  
+- **JavaScript** para validações, como:
+  - Campos obrigatórios
+  - Verificação de campos vazios
+  - Senha com tamanho mínimo
+
+---
+
+## 📫 Entre em contato
+
+- [LinkedIn](www.linkedin.com/in/julianacsantos2025)  
+
+Vamos conversar sobre tecnologia, aprendizado e boas ideias! 😊
